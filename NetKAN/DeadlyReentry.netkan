@@ -6,8 +6,9 @@
     "$kref"          : "#/ckan/github/Starwaster/DeadlyReentry",
     "license"        : "CC-BY-SA",
     "release_status" : "stable",
-    "ksp_version"    : "0.25",
+    "ksp_version"    : "0.90",
     "resources"      : {
-        "homepage" : "http://forum.kerbalspaceprogram.com/threads/54954"
+        "homepage"   : "http://forum.kerbalspaceprogram.com/threads/54954",
+        "repository" : "https://github.com/Starwaster/DeadlyReentry"
     }
 }
