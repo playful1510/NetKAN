@@ -1,0 +1,9 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "RoverDude",
+    "$kref"        : "#/ckan/github/<bobpalmer>/<USI-LS>",
+    "name"         : "Stock-ish Life Support",
+    "abstract"     : "Don't feed your Kerbals? They go on strike!",
+    "license"      : "CC-BY-NC-4.0",
+    "ksp_version"  : "1.0"
+}
